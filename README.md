@@ -24,4 +24,3 @@ This is for gaining knowledge
 ###### this is smallest
 
 link to [Google](https://www.google.com/)
-use ![Husky](desktop/Husky.jpg)
