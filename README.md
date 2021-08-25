@@ -15,12 +15,6 @@ This is for gaining knowledge
     1. tabletennis
 3. go to home
 
-'''
-
-def sai (n):
-    x=0
-    for x in range(0,n):
-        sum += x
-    return sum
-
-'''
+***northwest missouri state university***
+*is located* 
+**maryville**
