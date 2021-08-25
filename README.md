@@ -7,7 +7,7 @@ This is for gaining knowledge
     * catpaws
 * come out
 
-* open laptop
-    - login
-    - logout
-* close laptop
+1. go to rec
+2. swipe the bearcat card
+3. play the sports
+
