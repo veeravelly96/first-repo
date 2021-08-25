@@ -15,6 +15,6 @@ This is for gaining knowledge
     1. tabletennis
 3. go to home
 
-***northwest missouri state university***
-*is located* 
-**maryville**
+***northwest missouri state university.***
+*is located.* 
+**maryville.**
