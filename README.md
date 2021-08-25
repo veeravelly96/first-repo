@@ -24,4 +24,4 @@ This is for gaining knowledge
 ###### this is smallest
 
 link to [Google](https://www.google.com/)
-link to other page [first](first repo copy)
+use ![Husky](desktop/Husky.jpg)
