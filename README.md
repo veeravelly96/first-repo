@@ -6,3 +6,8 @@ This is for gaining knowledge
     * login
     * catpaws
 * come out
+
+* open laptop
+    - login
+    - logout
+* close laptop
