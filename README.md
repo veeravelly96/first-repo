@@ -24,3 +24,9 @@ This is for gaining knowledge
 ###### this is smallest
 
 link to [Google](https://www.google.com/)
+
+the way to `horizons` appartments is
+```
+def sai(0):
+    x=0
+```
